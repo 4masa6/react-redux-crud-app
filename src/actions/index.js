@@ -1,7 +1,7 @@
 export const INCREMENT = 'INCREMENT'
 export const DECREMENT = 'DECREMENT'
 
-// actionを返す関数を、action createrという
+// actionを返す関数を、ActionCreatorという
 export const increment = () => {
     // increment側のaction
     return {
